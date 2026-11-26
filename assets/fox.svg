@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Memory fox">
+  <path d="M18 14 L46 40 L30 56 Z" fill="#D9622B"/>
+  <path d="M102 14 L74 40 L90 56 Z" fill="#D9622B"/>
+  <path d="M24 22 L40 38 L31 47 Z" fill="#F6C7A6"/>
+  <path d="M96 22 L80 38 L89 47 Z" fill="#F6C7A6"/>
+  <path d="M60 30 C88 30 104 48 104 66 C104 80 84 104 60 108 C36 104 16 80 16 66 C16 48 32 30 60 30 Z" fill="#D9622B"/>
+  <path d="M60 64 C76 64 92 72 96 76 C88 94 74 104 60 106 C46 104 32 94 24 76 C28 72 44 64 60 64 Z" fill="#FFF4E8"/>
+  <circle cx="44" cy="62" r="6" fill="#1B1C20"/>
+  <circle cx="76" cy="62" r="6" fill="#1B1C20"/>
+  <circle cx="46" cy="60" r="2" fill="#FFFFFF"/>
+  <circle cx="78" cy="60" r="2" fill="#FFFFFF"/>
+  <path d="M53 80 Q60 76 67 80 Q60 88 53 80 Z" fill="#1B1C20"/>
+  <path d="M60 86 Q56 92 50 90 M60 86 Q64 92 70 90" stroke="#1B1C20" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>
