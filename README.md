@@ -1,4 +1,4 @@
-# Canavar Yutan — web sitesi (GitHub Pages)
+# Gezegen Yiyen (Planet Eater) — web sitesi (GitHub Pages)
 
 Derleme yok, düz HTML. Push et, Pages'i aç.
 
@@ -40,7 +40,7 @@ Klasörde `{{` ara ve değiştir:
 ```bash
 git init
 git add .
-git commit -m "Canavar Yutan web sitesi"
+git commit -m "Gezegen Yiyen web sitesi"
 git branch -M main
 git remote add origin https://github.com/<kullanici>/<repo>.git
 git push -u origin main
